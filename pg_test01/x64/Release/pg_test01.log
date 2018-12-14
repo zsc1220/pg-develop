@@ -1,0 +1,9 @@
+﻿D:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: 中间目录(x64\Release\)包含从另一个项目(pg_test01.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  pg_test.c
+d:\program files\pgrouting-2.6.1\pg_test01\pg_test.c : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\program files\pgrouting-2.6.1\pg_test01\pg_test.c(45): warning C4013: “pgr_get_gedges”未定义；假设外部返回 int
+  vision.cpp
+d:\program files\pgrouting-2.6.1\pg_test01\vision.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.13.26128\include\xkeycheck.h(65): warning C4005: “inline”: 宏重定义
+  d:\program files\postgresql\10\include\server\pg_config.h(699): note: 参见“inline”的前一个定义
+d:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.13.26128\include\xkeycheck.h(87): fatal error C1189: #error:  The C Standard Library forbids macroizing keywords. Enable warning C4005 to find the forbidden macro.

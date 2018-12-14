@@ -1,0 +1,10 @@
+﻿  test01.cpp
+d:\program files\pgrouting-2.6.1\aa_test01\test01.cpp(98): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\program files\pgrouting-2.6.1\aa_test01\test01.cpp(142): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\program files\pgrouting-2.6.1\aa_test01\test01.cpp(193): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\program files\pgrouting-2.6.1\aa_test01\test01.cpp(227): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\program files\pgrouting-2.6.1\aa_test01\test01.cpp(282): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\program files\pgrouting-2.6.1\aa_test01\test01.cpp(292): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\program files\pgrouting-2.6.1\aa_test01\test01.cpp(371): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\program files\pgrouting-2.6.1\aa_test01\test01.cpp(452): warning C4326: “main”的返回类型应为“int”而非“void”
+  aa_test01.vcxproj -> D:\Program Files\pgrouting-2.6.1\build\x64\Debug\aa_test01.exe

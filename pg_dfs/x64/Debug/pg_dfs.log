@@ -1,0 +1,5 @@
+﻿  pgtest_driver.cpp
+d:\dev\cgal-4.13\include\cgal\config.h(119): warning C4005: “BOOST_PARAMETER_MAX_ARITY”: 宏重定义
+  d:\local\boost_1_68_0\boost\parameter\config.hpp(10): note: 参见“BOOST_PARAMETER_MAX_ARITY”的前一个定义
+d:\program files\pgrouting-2.6.1\pg_dfs\pgtest_driver.cpp(198): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  pg_dfs.vcxproj -> D:\Program Files\pgrouting-2.6.1\build\x64\Debug\pg_dfs.dll
